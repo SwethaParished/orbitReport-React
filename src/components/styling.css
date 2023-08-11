@@ -3,6 +3,9 @@ p {
   font-family: Montserrat, Arial, Helvetica, sans-serif;
   text-align: center;
 }
+div{
+  text-align: center;
+}
 
 button {
   background-color: #5c94ce;
